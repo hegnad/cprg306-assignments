@@ -13,6 +13,8 @@ export default function RootPage() {
             <Link href="/week-4">Week 4 Assignment</Link>
             <br></br>
             <Link href="/week-5">Week 5 Assignment</Link>
+            <br></br>
+            <Link href="/week-6">Week 6 Assignment</Link>
         </main>
     );
 }
